@@ -1,0 +1,21 @@
+.Header
+{
+    background-color: beige;
+    align-content: center;
+    margin-top: 20px;
+    margin-bottom: 5px;
+
+    
+    
+}
+
+#search
+{
+    background-color: gray;
+    text-anchor: middle;
+    height: 50px;
+    width: 300px;
+    border-radius: 25px;
+
+
+}
